@@ -1,0 +1,16 @@
+﻿
+h2. Carré de sable
+
+h3. Voici un espace pour écrire des idées
+
+Comme vous pouvez voir, le format textile _est_ supporté...
+
+*# Infrastructure de build+déploiment
+*# Étude des concurrents
+
+
+---------------------------------------------
+
+Concurrents : 
+
+* teamer.net
