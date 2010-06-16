@@ -11,7 +11,7 @@ Comme vous pouvez voir, le format textile _est_ supporté...
 
 ---------------------------------------------
 
-Concurrents : 
+h4. Concurrents
 
 * teamer.net
 * www.teamsnap.com (Google.ca: 1er avec "manage your sport league")
@@ -23,3 +23,7 @@ Concurrents :
 * www.teamlobby.com
 * www.myteamcaptain.com
 * sportsvite.com
+
+h5. Risques potentiels du projet
+
+* Saturation existante du marché de la gestion des ligues/équipes sportives.
